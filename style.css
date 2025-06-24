@@ -1,0 +1,220 @@
+body {
+    background-color: #0d1117;
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    position: absolute;
+    content-visibility: ;
+}
+
+#id1 {
+    position: static;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    position: static;
+}
+
+#id2 {
+    color: white;
+    font-size: 20px;
+    font-weight: 100px;
+    text-decoration: none;
+}
+
+#id3 {
+    background-color: #0d1117;
+    border: 1px solid white;
+    height: 25px;
+    width: 190px;
+    font-size: 15px;
+}
+
+#id4 {
+    background-color: #0072be;
+    color: white;
+    height: 35px;
+    width: 100px;
+    font-size: 15px;
+}
+
+#id5 {
+    background-color: #25292e;
+    height: 40px;
+    text-align: center;
+    color: #e3e3e3;
+    align-items: center;
+}
+
+id6 {
+    color: #e3e3e3;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#id7 {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+#id8 {
+    height: 40px;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #0072be;
+    color: white;
+    border-radius: 5px;
+    margin-left: 130px;
+    margin-right: 10px;
+}
+
+#id9 {
+    height: 40px;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #3f464b;
+    color: rgb(247, 235, 235);
+    border-radius: 5px;
+}
+
+#id10 {
+    background-color: #0072be;
+    height: 43rem;
+    width: 80%;
+    margin-left: 140px;
+    margin-right: 100px;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-image: url(https://code.visualstudio.com/assets/home/hero-background.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.top1 {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    padding-left: 15px;
+    font-size: 16px;
+}
+
+#id11 {
+    margin-top: 50;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 140px;
+    padding-right: 150px;
+
+}
+
+.myclass2 {
+    color: white;
+    height: 500px;
+    width: 30%;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 6px;
+
+}
+
+.myclass3 {
+    font-size: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.myclass4 {
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#id12 {
+    height: 150px;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 160px;
+    border-radius: 10px;
+    background-image: url(https://code.visualstudio.com/assets/home/copilot-free-banner-bg-dark.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+}
+
+#id13 {
+    height: 100px;
+    margin-top: 10px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+
+#id14 {
+    height: 100px;
+    margin-top: 10px;
+    width: 40%;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+
+#id15 {
+    height: 30px;
+    width: 80px;
+    font-size: 16px;
+    padding: 4px;
+    background-color: #25292E;
+    color: white;
+    border-radius: 5px;
+}
+
+.myclass5 {
+    height: 43rem;
+    width: 80%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 140px;
+    margin-right: 100px;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between
+}
+
+.myclass6 {
+    color: aliceblue;
+    text-align: start;
+    padding-top: 100px;
+}
+
+.myclass7 {
+    background-color: aliceblue;
+    height: 80%;
+    width: 62%;
+    background-image: url(https://code.visualstudio.com/assets/home/swimlane-chat-dark.webp);
+    background-size: cover;
+    border-radius: 18px;
+}
+.btnclass{
+    height: 200px;
+    width: 20%;
+    background-color:#2c2d2e;
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 25px;
+    background-color: #2d2d2d;
+    border-radius: 10px;
+    width: 300px;
+    border: none;
+
+}
